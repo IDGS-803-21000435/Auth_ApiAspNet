@@ -1,0 +1,6 @@
+@AuthAPI_903_HostAddress = http://localhost:5210
+
+GET {{AuthAPI_903_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
